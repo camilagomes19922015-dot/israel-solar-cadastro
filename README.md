@@ -1,5 +1,7 @@
 # israel-solar-cadastro
 Cadastro
+/ (raiz do repo)
+├─ index.html   ✅
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
